@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8766'
     url: http://www.gutenberg.org/2009/agents/8766
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19588#La-poste-par-pigeons-voyageurs--Souvenir-du-si-ge-de-Paris
 gutenberg_bookshelf:
 - The Philatelic Digital Library Project
 - FR Guerres
